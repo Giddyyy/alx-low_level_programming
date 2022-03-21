@@ -1,0 +1,1 @@
+This describes arrays and pointers.
